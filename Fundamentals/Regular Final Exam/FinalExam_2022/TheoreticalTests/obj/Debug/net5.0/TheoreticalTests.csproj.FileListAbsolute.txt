@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\bin\Debug\net5.0\TheoreticalTests.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\bin\Debug\net5.0\TheoreticalTests.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\bin\Debug\net5.0\TheoreticalTests.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\bin\Debug\net5.0\TheoreticalTests.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\bin\Debug\net5.0\TheoreticalTests.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\bin\Debug\net5.0\TheoreticalTests.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\obj\Debug\net5.0\TheoreticalTests.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\obj\Debug\net5.0\TheoreticalTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\obj\Debug\net5.0\TheoreticalTests.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\obj\Debug\net5.0\TheoreticalTests.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\obj\Debug\net5.0\TheoreticalTests.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\obj\Debug\net5.0\TheoreticalTests.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\obj\Debug\net5.0\refint\TheoreticalTests.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\obj\Debug\net5.0\TheoreticalTests.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\obj\Debug\net5.0\TheoreticalTests.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\TheoreticalTests\obj\Debug\net5.0\ref\TheoreticalTests.dll

@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\bin\Debug\net5.0\02.RepeatStrings.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\bin\Debug\net5.0\02.RepeatStrings.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\bin\Debug\net5.0\02.RepeatStrings.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\bin\Debug\net5.0\02.RepeatStrings.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\bin\Debug\net5.0\02.RepeatStrings.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\bin\Debug\net5.0\02.RepeatStrings.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\obj\Debug\net5.0\02.RepeatStrings.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\obj\Debug\net5.0\02.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\obj\Debug\net5.0\02.RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\obj\Debug\net5.0\02.RepeatStrings.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\obj\Debug\net5.0\02.RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\obj\Debug\net5.0\02.RepeatStrings.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\obj\Debug\net5.0\refint\02.RepeatStrings.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\obj\Debug\net5.0\02.RepeatStrings.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\obj\Debug\net5.0\02.RepeatStrings.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\02.RepeatStrings\obj\Debug\net5.0\ref\02.RepeatStrings.dll

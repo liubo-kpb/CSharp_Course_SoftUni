@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net5.0\01.CountRealNumbers.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net5.0\refint\01.CountRealNumbers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net5.0\01.CountRealNumbers.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net5.0\ref\01.CountRealNumbers.dll

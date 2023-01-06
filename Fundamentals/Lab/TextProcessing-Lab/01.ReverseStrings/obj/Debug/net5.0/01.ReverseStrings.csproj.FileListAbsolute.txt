@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\bin\Debug\net5.0\01.ReverseStrings.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\bin\Debug\net5.0\01.ReverseStrings.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\bin\Debug\net5.0\01.ReverseStrings.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\bin\Debug\net5.0\01.ReverseStrings.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\bin\Debug\net5.0\01.ReverseStrings.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\bin\Debug\net5.0\01.ReverseStrings.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net5.0\01.ReverseStrings.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net5.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net5.0\01.ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net5.0\01.ReverseStrings.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net5.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net5.0\01.ReverseStrings.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net5.0\refint\01.ReverseStrings.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net5.0\01.ReverseStrings.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net5.0\01.ReverseStrings.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\TextProcessing-Lab\01.ReverseStrings\obj\Debug\net5.0\ref\01.ReverseStrings.dll

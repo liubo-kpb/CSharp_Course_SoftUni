@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\bin\Debug\net5.0\10.LadyBugs.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\bin\Debug\net5.0\10.LadyBugs.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\bin\Debug\net5.0\10.LadyBugs.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\bin\Debug\net5.0\10.LadyBugs.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\bin\Debug\net5.0\10.LadyBugs.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\bin\Debug\net5.0\10.LadyBugs.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\obj\Debug\net5.0\10.LadyBugs.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\obj\Debug\net5.0\10.LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\obj\Debug\net5.0\10.LadyBugs.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\obj\Debug\net5.0\10.LadyBugs.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\obj\Debug\net5.0\10.LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\obj\Debug\net5.0\10.LadyBugs.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\obj\Debug\net5.0\refint\10.LadyBugs.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\obj\Debug\net5.0\10.LadyBugs.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\obj\Debug\net5.0\10.LadyBugs.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\10.LadyBugs\obj\Debug\net5.0\ref\10.LadyBugs.dll

@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\bin\Debug\net5.0\03.WildZoo.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\bin\Debug\net5.0\03.WildZoo.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\bin\Debug\net5.0\03.WildZoo.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\bin\Debug\net5.0\03.WildZoo.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\bin\Debug\net5.0\03.WildZoo.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\bin\Debug\net5.0\03.WildZoo.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\obj\Debug\net5.0\03.WildZoo.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\obj\Debug\net5.0\03.WildZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\obj\Debug\net5.0\03.WildZoo.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\obj\Debug\net5.0\03.WildZoo.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\obj\Debug\net5.0\03.WildZoo.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\obj\Debug\net5.0\03.WildZoo.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\obj\Debug\net5.0\refint\03.WildZoo.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\obj\Debug\net5.0\03.WildZoo.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\obj\Debug\net5.0\03.WildZoo.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\03.WildZoo\obj\Debug\net5.0\ref\03.WildZoo.dll

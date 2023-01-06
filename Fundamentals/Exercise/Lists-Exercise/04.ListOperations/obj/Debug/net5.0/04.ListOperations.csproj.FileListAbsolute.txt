@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\bin\Debug\net5.0\04.ListOperations.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\bin\Debug\net5.0\04.ListOperations.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\bin\Debug\net5.0\04.ListOperations.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\bin\Debug\net5.0\04.ListOperations.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\bin\Debug\net5.0\04.ListOperations.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\bin\Debug\net5.0\04.ListOperations.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\obj\Debug\net5.0\04.ListOperations.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\obj\Debug\net5.0\04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\obj\Debug\net5.0\04.ListOperations.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\obj\Debug\net5.0\04.ListOperations.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\obj\Debug\net5.0\04.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\obj\Debug\net5.0\04.ListOperations.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\obj\Debug\net5.0\refint\04.ListOperations.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\obj\Debug\net5.0\04.ListOperations.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\obj\Debug\net5.0\04.ListOperations.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\Lists-Exercise\04.ListOperations\obj\Debug\net5.0\ref\04.ListOperations.dll

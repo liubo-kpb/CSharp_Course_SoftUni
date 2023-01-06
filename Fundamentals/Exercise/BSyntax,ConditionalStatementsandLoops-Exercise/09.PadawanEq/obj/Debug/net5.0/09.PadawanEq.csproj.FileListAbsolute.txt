@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\bin\Debug\net5.0\09.PadawanEq.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\bin\Debug\net5.0\09.PadawanEq.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\bin\Debug\net5.0\09.PadawanEq.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\bin\Debug\net5.0\09.PadawanEq.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\bin\Debug\net5.0\09.PadawanEq.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\bin\Debug\net5.0\09.PadawanEq.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\obj\Debug\net5.0\09.PadawanEq.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\obj\Debug\net5.0\09.PadawanEq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\obj\Debug\net5.0\09.PadawanEq.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\obj\Debug\net5.0\09.PadawanEq.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\obj\Debug\net5.0\09.PadawanEq.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\obj\Debug\net5.0\09.PadawanEq.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\obj\Debug\net5.0\refint\09.PadawanEq.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\obj\Debug\net5.0\09.PadawanEq.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\obj\Debug\net5.0\09.PadawanEq.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\09.PadawanEq\obj\Debug\net5.0\ref\09.PadawanEq.dll

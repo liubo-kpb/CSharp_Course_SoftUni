@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net5.0\09.SpiceMustFlow.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net5.0\refint\09.SpiceMustFlow.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net5.0\09.SpiceMustFlow.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net5.0\ref\09.SpiceMustFlow.dll

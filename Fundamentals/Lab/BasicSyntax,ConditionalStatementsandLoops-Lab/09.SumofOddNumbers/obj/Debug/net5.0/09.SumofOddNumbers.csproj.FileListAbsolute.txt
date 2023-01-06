@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\bin\Debug\net5.0\09.SumofOddNumbers.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\bin\Debug\net5.0\09.SumofOddNumbers.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\bin\Debug\net5.0\09.SumofOddNumbers.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\bin\Debug\net5.0\09.SumofOddNumbers.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\bin\Debug\net5.0\09.SumofOddNumbers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\bin\Debug\net5.0\09.SumofOddNumbers.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net5.0\09.SumofOddNumbers.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net5.0\09.SumofOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net5.0\09.SumofOddNumbers.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net5.0\09.SumofOddNumbers.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net5.0\09.SumofOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net5.0\09.SumofOddNumbers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net5.0\refint\09.SumofOddNumbers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net5.0\09.SumofOddNumbers.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net5.0\09.SumofOddNumbers.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net5.0\ref\09.SumofOddNumbers.dll

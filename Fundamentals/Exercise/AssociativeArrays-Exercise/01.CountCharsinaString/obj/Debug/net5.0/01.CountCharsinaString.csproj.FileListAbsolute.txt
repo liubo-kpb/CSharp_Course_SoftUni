@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\net5.0\refint\01.CountCharsinaString.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\net5.0\ref\01.CountCharsinaString.dll

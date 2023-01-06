@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\bin\Debug\net5.0\06.Strongnu.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\bin\Debug\net5.0\06.Strongnu.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\bin\Debug\net5.0\06.Strongnu.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\bin\Debug\net5.0\06.Strongnu.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\bin\Debug\net5.0\06.Strongnu.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\bin\Debug\net5.0\06.Strongnu.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\obj\Debug\net5.0\06.Strongnu.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\obj\Debug\net5.0\06.Strongnu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\obj\Debug\net5.0\06.Strongnu.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\obj\Debug\net5.0\06.Strongnu.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\obj\Debug\net5.0\06.Strongnu.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\obj\Debug\net5.0\06.Strongnu.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\obj\Debug\net5.0\refint\06.Strongnu.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\obj\Debug\net5.0\06.Strongnu.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\obj\Debug\net5.0\06.Strongnu.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\06.Strongnu\obj\Debug\net5.0\ref\06.Strongnu.dll

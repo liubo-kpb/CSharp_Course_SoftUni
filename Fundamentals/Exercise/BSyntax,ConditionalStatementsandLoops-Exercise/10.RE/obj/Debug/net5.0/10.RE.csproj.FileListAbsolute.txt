@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\bin\Debug\net5.0\10.RE.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\bin\Debug\net5.0\10.RE.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\bin\Debug\net5.0\10.RE.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\bin\Debug\net5.0\10.RE.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\bin\Debug\net5.0\10.RE.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\bin\Debug\net5.0\10.RE.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\obj\Debug\net5.0\10.RE.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\obj\Debug\net5.0\10.RE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\obj\Debug\net5.0\10.RE.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\obj\Debug\net5.0\10.RE.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\obj\Debug\net5.0\10.RE.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\obj\Debug\net5.0\10.RE.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\obj\Debug\net5.0\refint\10.RE.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\obj\Debug\net5.0\10.RE.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\obj\Debug\net5.0\10.RE.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\10.RE\obj\Debug\net5.0\ref\10.RE.dll

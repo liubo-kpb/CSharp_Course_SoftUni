@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\bin\Debug\net5.0\10.LowerOrUpper.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\bin\Debug\net5.0\10.LowerOrUpper.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\bin\Debug\net5.0\10.LowerOrUpper.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\bin\Debug\net5.0\10.LowerOrUpper.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\bin\Debug\net5.0\10.LowerOrUpper.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\bin\Debug\net5.0\10.LowerOrUpper.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\net5.0\10.LowerOrUpper.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\net5.0\10.LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\net5.0\10.LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\net5.0\10.LowerOrUpper.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\net5.0\10.LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\net5.0\10.LowerOrUpper.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\net5.0\refint\10.LowerOrUpper.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\net5.0\10.LowerOrUpper.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\net5.0\10.LowerOrUpper.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\net5.0\ref\10.LowerOrUpper.dll

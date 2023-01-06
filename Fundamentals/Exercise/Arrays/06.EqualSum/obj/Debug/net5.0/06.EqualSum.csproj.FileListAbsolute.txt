@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\bin\Debug\net5.0\06.EqualSum.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\bin\Debug\net5.0\06.EqualSum.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\bin\Debug\net5.0\06.EqualSum.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\bin\Debug\net5.0\06.EqualSum.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\bin\Debug\net5.0\06.EqualSum.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\bin\Debug\net5.0\06.EqualSum.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\obj\Debug\net5.0\06.EqualSum.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\obj\Debug\net5.0\06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\obj\Debug\net5.0\06.EqualSum.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\obj\Debug\net5.0\06.EqualSum.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\obj\Debug\net5.0\06.EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\obj\Debug\net5.0\06.EqualSum.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\obj\Debug\net5.0\refint\06.EqualSum.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\obj\Debug\net5.0\06.EqualSum.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\obj\Debug\net5.0\06.EqualSum.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\06.EqualSum\obj\Debug\net5.0\ref\06.EqualSum.dll

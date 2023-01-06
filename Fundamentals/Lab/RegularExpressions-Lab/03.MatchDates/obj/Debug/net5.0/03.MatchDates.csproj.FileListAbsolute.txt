@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\bin\Debug\net5.0\03.MatchDates.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\bin\Debug\net5.0\03.MatchDates.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\bin\Debug\net5.0\03.MatchDates.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\bin\Debug\net5.0\03.MatchDates.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\bin\Debug\net5.0\03.MatchDates.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\bin\Debug\net5.0\03.MatchDates.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\obj\Debug\net5.0\03.MatchDates.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\obj\Debug\net5.0\03.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\obj\Debug\net5.0\03.MatchDates.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\obj\Debug\net5.0\03.MatchDates.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\obj\Debug\net5.0\03.MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\obj\Debug\net5.0\03.MatchDates.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\obj\Debug\net5.0\refint\03.MatchDates.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\obj\Debug\net5.0\03.MatchDates.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\obj\Debug\net5.0\03.MatchDates.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\RegularExpressions-Lab\03.MatchDates\obj\Debug\net5.0\ref\03.MatchDates.dll

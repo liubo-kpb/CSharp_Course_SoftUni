@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\bin\Debug\net5.0\09.KaminoFactory.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\bin\Debug\net5.0\09.KaminoFactory.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\bin\Debug\net5.0\09.KaminoFactory.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\bin\Debug\net5.0\09.KaminoFactory.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\bin\Debug\net5.0\09.KaminoFactory.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\bin\Debug\net5.0\09.KaminoFactory.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\obj\Debug\net5.0\refint\09.KaminoFactory.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\obj\Debug\net5.0\09.KaminoFactory.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Arrays\09.KaminoFactory\obj\Debug\net5.0\ref\09.KaminoFactory.dll

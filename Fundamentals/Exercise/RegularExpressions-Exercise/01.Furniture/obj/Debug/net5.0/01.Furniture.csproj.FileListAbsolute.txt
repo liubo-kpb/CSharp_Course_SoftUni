@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\bin\Debug\net5.0\01.Furniture.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\obj\Debug\net5.0\refint\01.Furniture.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\obj\Debug\net5.0\01.Furniture.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\01.Furniture\obj\Debug\net5.0\ref\01.Furniture.dll

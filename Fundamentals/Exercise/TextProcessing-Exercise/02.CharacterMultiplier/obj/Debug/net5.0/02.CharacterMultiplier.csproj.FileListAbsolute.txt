@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net5.0\refint\02.CharacterMultiplier.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net5.0\ref\02.CharacterMultiplier.dll

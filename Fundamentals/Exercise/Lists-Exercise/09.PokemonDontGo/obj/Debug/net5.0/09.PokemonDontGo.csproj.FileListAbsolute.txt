@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\bin\Debug\net5.0\09.PokemonDontGo.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\bin\Debug\net5.0\09.PokemonDontGo.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\bin\Debug\net5.0\09.PokemonDontGo.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\bin\Debug\net5.0\09.PokemonDontGo.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\bin\Debug\net5.0\09.PokemonDontGo.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\bin\Debug\net5.0\09.PokemonDontGo.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\obj\Debug\net5.0\09.PokemonDontGo.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\obj\Debug\net5.0\09.PokemonDontGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\obj\Debug\net5.0\09.PokemonDontGo.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\obj\Debug\net5.0\09.PokemonDontGo.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\obj\Debug\net5.0\09.PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\obj\Debug\net5.0\09.PokemonDontGo.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\obj\Debug\net5.0\refint\09.PokemonDontGo.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\obj\Debug\net5.0\09.PokemonDontGo.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\obj\Debug\net5.0\09.PokemonDontGo.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\Lists-Exercise\09.PokemonDontGo\obj\Debug\net5.0\ref\09.PokemonDontGo.dll

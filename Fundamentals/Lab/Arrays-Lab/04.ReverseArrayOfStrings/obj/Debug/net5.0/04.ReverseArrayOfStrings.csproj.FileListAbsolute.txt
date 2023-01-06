@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net5.0\04.ReverseArrayOfStrings.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net5.0\04.ReverseArrayOfStrings.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net5.0\04.ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net5.0\04.ReverseArrayOfStrings.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net5.0\04.ReverseArrayOfStrings.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net5.0\04.ReverseArrayOfStrings.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net5.0\04.ReverseArrayOfStrings.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net5.0\04.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net5.0\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net5.0\04.ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net5.0\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net5.0\04.ReverseArrayOfStrings.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net5.0\refint\04.ReverseArrayOfStrings.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net5.0\04.ReverseArrayOfStrings.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net5.0\04.ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net5.0\ref\04.ReverseArrayOfStrings.dll

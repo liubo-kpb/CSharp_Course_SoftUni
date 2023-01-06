@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\bin\Debug\net5.0\08.Divisibleby3.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\bin\Debug\net5.0\08.Divisibleby3.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\bin\Debug\net5.0\08.Divisibleby3.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\bin\Debug\net5.0\08.Divisibleby3.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\bin\Debug\net5.0\08.Divisibleby3.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\bin\Debug\net5.0\08.Divisibleby3.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\obj\Debug\net5.0\08.Divisibleby3.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\obj\Debug\net5.0\08.Divisibleby3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\obj\Debug\net5.0\08.Divisibleby3.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\obj\Debug\net5.0\08.Divisibleby3.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\obj\Debug\net5.0\08.Divisibleby3.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\obj\Debug\net5.0\08.Divisibleby3.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\obj\Debug\net5.0\refint\08.Divisibleby3.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\obj\Debug\net5.0\08.Divisibleby3.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\obj\Debug\net5.0\08.Divisibleby3.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\BasicSyntax,ConditionalStatementsandLoops-Lab\08.Divisibleby3\obj\Debug\net5.0\ref\08.Divisibleby3.dll

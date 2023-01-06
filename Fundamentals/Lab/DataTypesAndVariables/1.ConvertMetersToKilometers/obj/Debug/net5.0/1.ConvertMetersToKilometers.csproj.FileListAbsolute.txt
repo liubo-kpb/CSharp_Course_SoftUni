@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\bin\Debug\net5.0\1.ConvertMetersToKilometers.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\bin\Debug\net5.0\1.ConvertMetersToKilometers.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\bin\Debug\net5.0\1.ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\bin\Debug\net5.0\1.ConvertMetersToKilometers.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\bin\Debug\net5.0\1.ConvertMetersToKilometers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\bin\Debug\net5.0\1.ConvertMetersToKilometers.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\obj\Debug\net5.0\1.ConvertMetersToKilometers.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\obj\Debug\net5.0\1.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\obj\Debug\net5.0\1.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\obj\Debug\net5.0\1.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\obj\Debug\net5.0\1.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\obj\Debug\net5.0\1.ConvertMetersToKilometers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\obj\Debug\net5.0\refint\1.ConvertMetersToKilometers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\obj\Debug\net5.0\1.ConvertMetersToKilometers.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\obj\Debug\net5.0\1.ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\1.ConvertMetersToKilometers\obj\Debug\net5.0\ref\1.ConvertMetersToKilometers.dll

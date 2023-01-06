@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\bin\Debug\net5.0\08.TofN.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\bin\Debug\net5.0\08.TofN.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\bin\Debug\net5.0\08.TofN.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\bin\Debug\net5.0\08.TofN.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\bin\Debug\net5.0\08.TofN.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\bin\Debug\net5.0\08.TofN.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\obj\Debug\net5.0\08.TofN.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\obj\Debug\net5.0\08.TofN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\obj\Debug\net5.0\08.TofN.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\obj\Debug\net5.0\08.TofN.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\obj\Debug\net5.0\08.TofN.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\obj\Debug\net5.0\08.TofN.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\obj\Debug\net5.0\refint\08.TofN.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\obj\Debug\net5.0\08.TofN.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\obj\Debug\net5.0\08.TofN.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\BSyntax,ConditionalStatementsandLoops-Exercise\08.TofN\obj\Debug\net5.0\ref\08.TofN.dll

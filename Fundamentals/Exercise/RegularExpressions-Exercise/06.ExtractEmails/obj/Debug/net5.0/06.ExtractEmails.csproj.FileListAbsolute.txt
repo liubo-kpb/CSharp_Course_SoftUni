@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net5.0\06.ExtractEmails.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net5.0\refint\06.ExtractEmails.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net5.0\06.ExtractEmails.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net5.0\ref\06.ExtractEmails.dll

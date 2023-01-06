@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\net5.0\01.SumAdjacentEqualNumbers.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\net5.0\01.SumAdjacentEqualNumbers.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\net5.0\01.SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\net5.0\01.SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\net5.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\net5.0\01.SumAdjacentEqualNumbers.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net5.0\01.SumAdjacentEqualNumbers.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net5.0\01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net5.0\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net5.0\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net5.0\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net5.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net5.0\refint\01.SumAdjacentEqualNumbers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net5.0\01.SumAdjacentEqualNumbers.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net5.0\01.SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net5.0\ref\01.SumAdjacentEqualNumbers.dll

@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\bin\Debug\net5.0\02.BossRush.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\bin\Debug\net5.0\02.BossRush.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\bin\Debug\net5.0\02.BossRush.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\bin\Debug\net5.0\02.BossRush.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\bin\Debug\net5.0\02.BossRush.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\bin\Debug\net5.0\02.BossRush.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\obj\Debug\net5.0\02.BossRush.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\obj\Debug\net5.0\02.BossRush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\obj\Debug\net5.0\02.BossRush.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\obj\Debug\net5.0\02.BossRush.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\obj\Debug\net5.0\02.BossRush.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\obj\Debug\net5.0\02.BossRush.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\obj\Debug\net5.0\refint\02.BossRush.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\obj\Debug\net5.0\02.BossRush.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\obj\Debug\net5.0\02.BossRush.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Regular Final Exam\FinalExam_2022\02.BossRush\obj\Debug\net5.0\ref\02.BossRush.dll

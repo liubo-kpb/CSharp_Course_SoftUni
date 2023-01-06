@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalogue.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net5.0\refint\07.VehicleCatalogue.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalogue.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net5.0\ref\07.VehicleCatalogue.dll

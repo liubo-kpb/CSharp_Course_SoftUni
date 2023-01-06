@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\bin\Debug\net5.0\03.ChatLogger.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\bin\Debug\net5.0\03.ChatLogger.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\bin\Debug\net5.0\03.ChatLogger.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\bin\Debug\net5.0\03.ChatLogger.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\bin\Debug\net5.0\03.ChatLogger.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\bin\Debug\net5.0\03.ChatLogger.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\obj\Debug\net5.0\03.ChatLogger.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\obj\Debug\net5.0\03.ChatLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\obj\Debug\net5.0\03.ChatLogger.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\obj\Debug\net5.0\03.ChatLogger.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\obj\Debug\net5.0\03.ChatLogger.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\obj\Debug\net5.0\03.ChatLogger.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\obj\Debug\net5.0\refint\03.ChatLogger.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\obj\Debug\net5.0\03.ChatLogger.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\obj\Debug\net5.0\03.ChatLogger.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\MidExam\03.ChatLogger\obj\Debug\net5.0\ref\03.ChatLogger.dll

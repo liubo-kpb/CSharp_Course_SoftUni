@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net5.0\11.Snowballs.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net5.0\11.Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net5.0\11.Snowballs.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net5.0\11.Snowballs.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net5.0\11.Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net5.0\11.Snowballs.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net5.0\11.Snowballs.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net5.0\11.Snowballs.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net5.0\11.Snowballs.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net5.0\11.Snowballs.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net5.0\11.Snowballs.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net5.0\11.Snowballs.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net5.0\refint\11.Snowballs.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net5.0\11.Snowballs.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net5.0\11.Snowballs.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net5.0\ref\11.Snowballs.dll

@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\bin\Debug\net5.0\01.ValidUsernames.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\bin\Debug\net5.0\01.ValidUsernames.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\bin\Debug\net5.0\01.ValidUsernames.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\bin\Debug\net5.0\01.ValidUsernames.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\bin\Debug\net5.0\01.ValidUsernames.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\bin\Debug\net5.0\01.ValidUsernames.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\obj\Debug\net5.0\01.ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\obj\Debug\net5.0\01.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\obj\Debug\net5.0\01.ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\obj\Debug\net5.0\01.ValidUsernames.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\obj\Debug\net5.0\01.ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\obj\Debug\net5.0\01.ValidUsernames.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\obj\Debug\net5.0\refint\01.ValidUsernames.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\obj\Debug\net5.0\01.ValidUsernames.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\obj\Debug\net5.0\01.ValidUsernames.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Exercise\TextProcessing-Exercise\TextProcessing-Exercise\obj\Debug\net5.0\ref\01.ValidUsernames.dll

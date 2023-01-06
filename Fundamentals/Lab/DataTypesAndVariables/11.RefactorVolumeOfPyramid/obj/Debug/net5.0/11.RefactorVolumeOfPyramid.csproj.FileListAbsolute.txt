@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\net5.0\11.RefactorVolumeOfPyramid.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\net5.0\11.RefactorVolumeOfPyramid.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\net5.0\11.RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\net5.0\11.RefactorVolumeOfPyramid.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\net5.0\11.RefactorVolumeOfPyramid.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\net5.0\11.RefactorVolumeOfPyramid.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net5.0\11.RefactorVolumeOfPyramid.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net5.0\11.RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net5.0\11.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net5.0\11.RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net5.0\11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net5.0\11.RefactorVolumeOfPyramid.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net5.0\refint\11.RefactorVolumeOfPyramid.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net5.0\11.RefactorVolumeOfPyramid.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net5.0\11.RefactorVolumeOfPyramid.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Fundamentals\Lab\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net5.0\ref\11.RefactorVolumeOfPyramid.dll
