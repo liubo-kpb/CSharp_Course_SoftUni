@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\obj\Debug\net5.0\04.VegetableMarket.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\obj\Debug\net5.0\04.VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\obj\Debug\net5.0\04.VegetableMarket.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\obj\Debug\net5.0\04.VegetableMarket.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\obj\Debug\net5.0\04.VegetableMarket.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\bin\Debug\net5.0\04.VegetableMarket.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\bin\Debug\net5.0\04.VegetableMarket.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\bin\Debug\net5.0\04.VegetableMarket.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\bin\Debug\net5.0\04.VegetableMarket.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\bin\Debug\net5.0\04.VegetableMarket.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\bin\Debug\net5.0\04.VegetableMarket.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\obj\Debug\net5.0\04.VegetableMarket.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\obj\Debug\net5.0\refint\04.VegetableMarket.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\obj\Debug\net5.0\04.VegetableMarket.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\obj\Debug\net5.0\04.VegetableMarket.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\04.VegetableMarket\obj\Debug\net5.0\ref\04.VegetableMarket.dll

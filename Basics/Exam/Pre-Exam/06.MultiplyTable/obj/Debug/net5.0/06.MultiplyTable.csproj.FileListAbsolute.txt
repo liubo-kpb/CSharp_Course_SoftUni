@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\bin\Debug\net5.0\06.MultiplyTable.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\bin\Debug\net5.0\06.MultiplyTable.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\bin\Debug\net5.0\06.MultiplyTable.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\bin\Debug\net5.0\06.MultiplyTable.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\bin\Debug\net5.0\06.MultiplyTable.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\bin\Debug\net5.0\06.MultiplyTable.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\obj\Debug\net5.0\06.MultiplyTable.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\obj\Debug\net5.0\06.MultiplyTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\obj\Debug\net5.0\06.MultiplyTable.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\obj\Debug\net5.0\06.MultiplyTable.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\obj\Debug\net5.0\06.MultiplyTable.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\obj\Debug\net5.0\06.MultiplyTable.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\obj\Debug\net5.0\refint\06.MultiplyTable.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\obj\Debug\net5.0\06.MultiplyTable.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\obj\Debug\net5.0\06.MultiplyTable.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\06.MultiplyTable\obj\Debug\net5.0\ref\06.MultiplyTable.dll

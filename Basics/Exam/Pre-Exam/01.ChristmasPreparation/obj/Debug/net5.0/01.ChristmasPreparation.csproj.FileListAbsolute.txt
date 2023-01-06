@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\bin\Debug\net5.0\01.ChristmasPreparation.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\bin\Debug\net5.0\01.ChristmasPreparation.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\bin\Debug\net5.0\01.ChristmasPreparation.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\bin\Debug\net5.0\01.ChristmasPreparation.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\bin\Debug\net5.0\01.ChristmasPreparation.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\bin\Debug\net5.0\01.ChristmasPreparation.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\obj\Debug\net5.0\01.ChristmasPreparation.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\obj\Debug\net5.0\01.ChristmasPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\obj\Debug\net5.0\01.ChristmasPreparation.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\obj\Debug\net5.0\01.ChristmasPreparation.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\obj\Debug\net5.0\01.ChristmasPreparation.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\obj\Debug\net5.0\01.ChristmasPreparation.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\obj\Debug\net5.0\refint\01.ChristmasPreparation.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\obj\Debug\net5.0\01.ChristmasPreparation.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\obj\Debug\net5.0\01.ChristmasPreparation.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\01.ChristmasPreparation\obj\Debug\net5.0\ref\01.ChristmasPreparation.dll

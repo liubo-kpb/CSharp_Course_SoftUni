@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

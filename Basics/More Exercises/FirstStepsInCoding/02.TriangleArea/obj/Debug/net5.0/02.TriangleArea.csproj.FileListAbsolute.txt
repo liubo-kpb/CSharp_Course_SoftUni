@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\bin\Debug\net5.0\02.TriangleArea.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\bin\Debug\net5.0\02.TriangleArea.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\bin\Debug\net5.0\02.TriangleArea.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\bin\Debug\net5.0\02.TriangleArea.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\bin\Debug\net5.0\02.TriangleArea.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\bin\Debug\net5.0\02.TriangleArea.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\obj\Debug\net5.0\02.TriangleArea.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\obj\Debug\net5.0\02.TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\obj\Debug\net5.0\02.TriangleArea.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\obj\Debug\net5.0\02.TriangleArea.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\obj\Debug\net5.0\02.TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\obj\Debug\net5.0\02.TriangleArea.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\obj\Debug\net5.0\refint\02.TriangleArea.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\obj\Debug\net5.0\02.TriangleArea.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\obj\Debug\net5.0\02.TriangleArea.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\02.TriangleArea\obj\Debug\net5.0\ref\02.TriangleArea.dll

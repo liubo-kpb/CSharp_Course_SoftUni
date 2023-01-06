@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\bin\Debug\netcoreapp3.1\01Person.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\bin\Debug\netcoreapp3.1\01Person.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\bin\Debug\netcoreapp3.1\01Person.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\bin\Debug\netcoreapp3.1\01Person.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\bin\Debug\netcoreapp3.1\01Person.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\bin\Debug\netcoreapp3.1\01Person.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\obj\Debug\netcoreapp3.1\01Person.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\obj\Debug\netcoreapp3.1\01Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\obj\Debug\netcoreapp3.1\01Person.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\obj\Debug\netcoreapp3.1\01Person.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\obj\Debug\netcoreapp3.1\01Person.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\obj\Debug\netcoreapp3.1\01Person.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\obj\Debug\netcoreapp3.1\01Person.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Inheritance-Exercise\01Person\obj\Debug\netcoreapp3.1\01Person.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\bin\Debug\net5.0\06.Operations-Nums.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\bin\Debug\net5.0\06.Operations-Nums.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\bin\Debug\net5.0\06.Operations-Nums.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\bin\Debug\net5.0\06.Operations-Nums.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\bin\Debug\net5.0\06.Operations-Nums.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\bin\Debug\net5.0\06.Operations-Nums.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\obj\Debug\net5.0\06.Operations-Nums.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\obj\Debug\net5.0\06.Operations-Nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\obj\Debug\net5.0\06.Operations-Nums.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\obj\Debug\net5.0\06.Operations-Nums.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\obj\Debug\net5.0\06.Operations-Nums.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\obj\Debug\net5.0\06.Operations-Nums.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\obj\Debug\net5.0\refint\06.Operations-Nums.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\obj\Debug\net5.0\06.Operations-Nums.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\obj\Debug\net5.0\06.Operations-Nums.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\06.Operations-Nums\obj\Debug\net5.0\ref\06.Operations-Nums.dll

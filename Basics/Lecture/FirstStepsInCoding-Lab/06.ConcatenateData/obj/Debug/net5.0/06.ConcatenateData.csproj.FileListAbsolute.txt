@@ -1,0 +1,5 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\net5.0\06.ConcatenateData.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\net5.0\06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\net5.0\06.ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\net5.0\06.ConcatenateData.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\net5.0\06.ConcatenateData.csproj.CoreCompileInputs.cache

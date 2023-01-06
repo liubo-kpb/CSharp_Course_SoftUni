@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

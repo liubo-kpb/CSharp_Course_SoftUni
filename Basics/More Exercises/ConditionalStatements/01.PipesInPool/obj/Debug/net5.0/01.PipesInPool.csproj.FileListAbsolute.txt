@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\bin\Debug\net5.0\01.PipesInPool.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\bin\Debug\net5.0\01.PipesInPool.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\bin\Debug\net5.0\01.PipesInPool.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\bin\Debug\net5.0\01.PipesInPool.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\bin\Debug\net5.0\01.PipesInPool.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\bin\Debug\net5.0\01.PipesInPool.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\obj\Debug\net5.0\01.PipesInPool.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\obj\Debug\net5.0\01.PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\obj\Debug\net5.0\01.PipesInPool.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\obj\Debug\net5.0\01.PipesInPool.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\obj\Debug\net5.0\01.PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\obj\Debug\net5.0\01.PipesInPool.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\obj\Debug\net5.0\refint\01.PipesInPool.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\obj\Debug\net5.0\01.PipesInPool.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\obj\Debug\net5.0\01.PipesInPool.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\01.PipesInPool\obj\Debug\net5.0\ref\01.PipesInPool.dll

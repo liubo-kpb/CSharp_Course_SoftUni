@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\obj\Debug\net5.0\08.LunchBreak.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\obj\Debug\net5.0\08.LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\obj\Debug\net5.0\08.LunchBreak.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\obj\Debug\net5.0\08.LunchBreak.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\obj\Debug\net5.0\08.LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\bin\Debug\net5.0\08.LunchBreak.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\bin\Debug\net5.0\08.LunchBreak.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\bin\Debug\net5.0\08.LunchBreak.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\bin\Debug\net5.0\08.LunchBreak.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\bin\Debug\net5.0\08.LunchBreak.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\bin\Debug\net5.0\08.LunchBreak.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\obj\Debug\net5.0\08.LunchBreak.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\obj\Debug\net5.0\refint\08.LunchBreak.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\obj\Debug\net5.0\08.LunchBreak.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\obj\Debug\net5.0\08.LunchBreak.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ConditionalStatements\08.LunchBreak\obj\Debug\net5.0\ref\08.LunchBreak.dll

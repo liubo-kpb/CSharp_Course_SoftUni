@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TkOb7u3HNG2oc+eL8QoVo86yHy7Nf22NTmGdsz9SwEZeHJjQO/aBsKnkLW50xT+E155+jr0LxNkYoovves7Vpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\narod\\OneDrive\\Desktop\\SoftUni\\Developer\\C#\\OOP\\Lab\\Inheritance-Lab\\01.SingleInheritance\\Farm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

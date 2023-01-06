@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\obj\Debug\net5.0\refint\07.FoodDelivery.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\07.FoodDelivery\obj\Debug\net5.0\ref\07.FoodDelivery.dll

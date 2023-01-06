@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\bin\Debug\net5.0\08.FuelTank-Part2.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\bin\Debug\net5.0\08.FuelTank-Part2.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\bin\Debug\net5.0\08.FuelTank-Part2.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\bin\Debug\net5.0\08.FuelTank-Part2.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\bin\Debug\net5.0\08.FuelTank-Part2.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\bin\Debug\net5.0\08.FuelTank-Part2.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\obj\Debug\net5.0\08.FuelTank-Part2.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\obj\Debug\net5.0\08.FuelTank-Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\obj\Debug\net5.0\08.FuelTank-Part2.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\obj\Debug\net5.0\08.FuelTank-Part2.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\obj\Debug\net5.0\08.FuelTank-Part2.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\obj\Debug\net5.0\08.FuelTank-Part2.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\obj\Debug\net5.0\refint\08.FuelTank-Part2.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\obj\Debug\net5.0\08.FuelTank-Part2.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\obj\Debug\net5.0\08.FuelTank-Part2.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\ConditionalStatements\08.FuelTank-Part2\obj\Debug\net5.0\ref\08.FuelTank-Part2.dll

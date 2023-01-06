@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\bin\Debug\net5.0\05.Everest.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\bin\Debug\net5.0\05.Everest.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\bin\Debug\net5.0\05.Everest.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\bin\Debug\net5.0\05.Everest.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\bin\Debug\net5.0\05.Everest.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\bin\Debug\net5.0\05.Everest.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\obj\Debug\net5.0\05.Everest.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\obj\Debug\net5.0\05.Everest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\obj\Debug\net5.0\05.Everest.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\obj\Debug\net5.0\05.Everest.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\obj\Debug\net5.0\05.Everest.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\obj\Debug\net5.0\05.Everest.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\obj\Debug\net5.0\refint\05.Everest.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\obj\Debug\net5.0\05.Everest.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\obj\Debug\net5.0\05.Everest.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\05.Everest\obj\Debug\net5.0\ref\05.Everest.dll

@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net5.0\12.TradeCommissions.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net5.0\12.TradeCommissions.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net5.0\12.TradeCommissions.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net5.0\12.TradeCommissions.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net5.0\12.TradeCommissions.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net5.0\12.TradeCommissions.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net5.0\12.TradeCommissions.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net5.0\12.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net5.0\12.TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net5.0\12.TradeCommissions.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net5.0\12.TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net5.0\12.TradeCommissions.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net5.0\refint\12.TradeCommissions.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net5.0\12.TradeCommissions.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net5.0\12.TradeCommissions.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net5.0\ref\12.TradeCommissions.dll

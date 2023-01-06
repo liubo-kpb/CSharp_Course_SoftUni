@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\Encapsulation-Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.genruntimeconfig.cache

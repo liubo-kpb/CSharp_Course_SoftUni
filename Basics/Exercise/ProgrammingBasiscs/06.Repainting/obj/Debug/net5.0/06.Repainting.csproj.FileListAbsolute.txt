@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\bin\Debug\net5.0\06.Repainting.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\bin\Debug\net5.0\06.Repainting.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\bin\Debug\net5.0\06.Repainting.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\bin\Debug\net5.0\06.Repainting.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\bin\Debug\net5.0\06.Repainting.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\bin\Debug\net5.0\06.Repainting.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\obj\Debug\net5.0\06.Repainting.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\obj\Debug\net5.0\06.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\obj\Debug\net5.0\06.Repainting.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\obj\Debug\net5.0\06.Repainting.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\obj\Debug\net5.0\06.Repainting.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\obj\Debug\net5.0\06.Repainting.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\obj\Debug\net5.0\refint\06.Repainting.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\obj\Debug\net5.0\06.Repainting.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\obj\Debug\net5.0\06.Repainting.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\06.Repainting\obj\Debug\net5.0\ref\06.Repainting.dll

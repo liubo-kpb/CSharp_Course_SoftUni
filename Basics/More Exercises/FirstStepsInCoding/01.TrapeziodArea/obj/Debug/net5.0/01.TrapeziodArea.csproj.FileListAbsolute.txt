@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\bin\Debug\net5.0\01.TrapeziodArea.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\bin\Debug\net5.0\01.TrapeziodArea.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\bin\Debug\net5.0\01.TrapeziodArea.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\bin\Debug\net5.0\01.TrapeziodArea.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\bin\Debug\net5.0\01.TrapeziodArea.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\bin\Debug\net5.0\01.TrapeziodArea.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\obj\Debug\net5.0\01.TrapeziodArea.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\obj\Debug\net5.0\01.TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\obj\Debug\net5.0\01.TrapeziodArea.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\obj\Debug\net5.0\01.TrapeziodArea.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\obj\Debug\net5.0\01.TrapeziodArea.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\obj\Debug\net5.0\01.TrapeziodArea.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\obj\Debug\net5.0\refint\01.TrapeziodArea.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\obj\Debug\net5.0\01.TrapeziodArea.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\obj\Debug\net5.0\01.TrapeziodArea.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\More Exercises\FirstStepsInCoding\01.TrapeziodArea\obj\Debug\net5.0\ref\01.TrapeziodArea.dll

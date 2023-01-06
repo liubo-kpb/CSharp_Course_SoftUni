@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\bin\Debug\net5.0\04.InchestoCentimeters.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net5.0\refint\04.InchestoCentimeters.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net5.0\04.InchestoCentimeters.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net5.0\ref\04.InchestoCentimeters.dll

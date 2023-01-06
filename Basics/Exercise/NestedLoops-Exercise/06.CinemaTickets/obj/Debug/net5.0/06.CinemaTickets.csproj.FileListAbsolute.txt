@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net5.0\06.CinemaTickets.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net5.0\06.CinemaTickets.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net5.0\06.CinemaTickets.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net5.0\06.CinemaTickets.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net5.0\06.CinemaTickets.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net5.0\06.CinemaTickets.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net5.0\06.CinemaTickets.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net5.0\06.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net5.0\06.CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net5.0\06.CinemaTickets.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net5.0\06.CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net5.0\06.CinemaTickets.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net5.0\refint\06.CinemaTickets.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net5.0\06.CinemaTickets.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net5.0\06.CinemaTickets.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net5.0\ref\06.CinemaTickets.dll

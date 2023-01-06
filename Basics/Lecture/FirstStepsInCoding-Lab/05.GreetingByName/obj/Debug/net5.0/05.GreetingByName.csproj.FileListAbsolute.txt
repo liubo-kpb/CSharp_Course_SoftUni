@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\net5.0\05.GreetingByName.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\net5.0\05.GreetingByName.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\net5.0\05.GreetingByName.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\net5.0\05.GreetingByName.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\net5.0\05.GreetingByName.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\net5.0\05.GreetingByName.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\net5.0\05.GreetingByName.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\net5.0\05.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\net5.0\05.GreetingByName.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\net5.0\05.GreetingByName.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\net5.0\05.GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\net5.0\05.GreetingByName.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\net5.0\refint\05.GreetingByName.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\net5.0\05.GreetingByName.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\net5.0\05.GreetingByName.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Lecture\FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\net5.0\ref\05.GreetingByName.dll

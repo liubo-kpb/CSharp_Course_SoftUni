@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\OOP\Exercise\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.genruntimeconfig.cache

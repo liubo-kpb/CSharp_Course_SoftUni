@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\bin\Debug\net5.0\02.FootballKit.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\bin\Debug\net5.0\02.FootballKit.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\bin\Debug\net5.0\02.FootballKit.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\bin\Debug\net5.0\02.FootballKit.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\bin\Debug\net5.0\02.FootballKit.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\bin\Debug\net5.0\02.FootballKit.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\obj\Debug\net5.0\02.FootballKit.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\obj\Debug\net5.0\02.FootballKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\obj\Debug\net5.0\02.FootballKit.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\obj\Debug\net5.0\02.FootballKit.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\obj\Debug\net5.0\02.FootballKit.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\obj\Debug\net5.0\02.FootballKit.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\obj\Debug\net5.0\refint\02.FootballKit.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\obj\Debug\net5.0\02.FootballKit.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\obj\Debug\net5.0\02.FootballKit.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\02.FootballKit\obj\Debug\net5.0\ref\02.FootballKit.dll

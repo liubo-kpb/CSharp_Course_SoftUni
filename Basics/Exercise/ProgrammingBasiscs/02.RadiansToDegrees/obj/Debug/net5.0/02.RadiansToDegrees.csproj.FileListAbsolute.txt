@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\bin\Debug\net5.0\02.RadiansToDegrees.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\obj\Debug\net5.0\refint\02.RadiansToDegrees.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\obj\Debug\net5.0\02.RadiansToDegrees.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Exercise\ProgrammingBasiscs\02.RadiansToDegrees\obj\Debug\net5.0\ref\02.RadiansToDegrees.dll

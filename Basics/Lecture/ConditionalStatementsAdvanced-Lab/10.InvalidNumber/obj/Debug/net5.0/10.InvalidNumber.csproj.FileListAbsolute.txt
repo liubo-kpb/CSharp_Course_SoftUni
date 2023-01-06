@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\bin\Debug\net5.0\10.InvalidNumber.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\obj\Debug\net5.0\refint\10.InvalidNumber.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\obj\Debug\net5.0\10.InvalidNumber.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\10.InvalidNumber\obj\Debug\net5.0\ref\10.InvalidNumber.dll

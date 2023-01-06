@@ -1,0 +1,16 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\bin\Debug\net5.0\03.ExcursionCalculator.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\bin\Debug\net5.0\03.ExcursionCalculator.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\bin\Debug\net5.0\03.ExcursionCalculator.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\bin\Debug\net5.0\03.ExcursionCalculator.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\bin\Debug\net5.0\03.ExcursionCalculator.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\bin\Debug\net5.0\03.ExcursionCalculator.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\obj\Debug\net5.0\03.ExcursionCalculator.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\obj\Debug\net5.0\03.ExcursionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\obj\Debug\net5.0\03.ExcursionCalculator.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\obj\Debug\net5.0\03.ExcursionCalculator.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\obj\Debug\net5.0\03.ExcursionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\obj\Debug\net5.0\03.ExcursionCalculator.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\obj\Debug\net5.0\refint\03.ExcursionCalculator.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\obj\Debug\net5.0\03.ExcursionCalculator.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\obj\Debug\net5.0\03.ExcursionCalculator.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Basics\Exam\Pre-Exam\03.ExcursionCalculator\obj\Debug\net5.0\ref\03.ExcursionCalculator.dll

@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net5.0\11.FruitShop.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net5.0\11.FruitShop.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net5.0\11.FruitShop.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net5.0\11.FruitShop.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net5.0\11.FruitShop.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net5.0\11.FruitShop.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net5.0\11.FruitShop.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net5.0\11.FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net5.0\11.FruitShop.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net5.0\11.FruitShop.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net5.0\11.FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net5.0\11.FruitShop.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net5.0\refint\11.FruitShop.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net5.0\11.FruitShop.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net5.0\11.FruitShop.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net5.0\ref\11.FruitShop.dll

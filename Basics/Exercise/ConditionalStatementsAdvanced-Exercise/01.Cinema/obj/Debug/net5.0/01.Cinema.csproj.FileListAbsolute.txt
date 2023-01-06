@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\refint\01.Cinema.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Exercises\ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net5.0\ref\01.Cinema.dll
