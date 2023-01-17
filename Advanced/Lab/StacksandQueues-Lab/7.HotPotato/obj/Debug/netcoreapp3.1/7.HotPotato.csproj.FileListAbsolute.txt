@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.genruntimeconfig.cache

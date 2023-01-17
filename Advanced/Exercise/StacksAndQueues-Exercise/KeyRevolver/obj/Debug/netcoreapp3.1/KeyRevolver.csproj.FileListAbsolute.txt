@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.genruntimeconfig.cache

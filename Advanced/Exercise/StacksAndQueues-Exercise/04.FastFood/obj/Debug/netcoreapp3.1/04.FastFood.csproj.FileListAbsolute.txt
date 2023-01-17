@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.genruntimeconfig.cache

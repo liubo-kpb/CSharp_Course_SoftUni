@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.genruntimeconfig.cache
