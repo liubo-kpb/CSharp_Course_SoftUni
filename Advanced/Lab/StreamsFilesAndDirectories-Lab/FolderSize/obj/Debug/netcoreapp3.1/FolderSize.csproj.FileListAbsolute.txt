@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.genruntimeconfig.cache

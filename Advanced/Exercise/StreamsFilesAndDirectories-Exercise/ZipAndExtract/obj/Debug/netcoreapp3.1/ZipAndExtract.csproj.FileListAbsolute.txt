@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\StreamsFilesAndDirectories-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.genruntimeconfig.cache

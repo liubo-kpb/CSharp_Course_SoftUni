@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\StreamsFilesAndDirectories-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.genruntimeconfig.cache

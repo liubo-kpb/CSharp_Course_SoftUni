@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.genruntimeconfig.cache

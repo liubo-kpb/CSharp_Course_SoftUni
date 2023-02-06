@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net5.0\04.ProductShop.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net5.0\04.ProductShop.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net5.0\04.ProductShop.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net5.0\04.ProductShop.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net5.0\04.ProductShop.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net5.0\04.ProductShop.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net5.0\04.ProductShop.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net5.0\04.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net5.0\04.ProductShop.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net5.0\04.ProductShop.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net5.0\04.ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net5.0\04.ProductShop.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net5.0\refint\04.ProductShop.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net5.0\04.ProductShop.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net5.0\04.ProductShop.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net5.0\ref\04.ProductShop.dll

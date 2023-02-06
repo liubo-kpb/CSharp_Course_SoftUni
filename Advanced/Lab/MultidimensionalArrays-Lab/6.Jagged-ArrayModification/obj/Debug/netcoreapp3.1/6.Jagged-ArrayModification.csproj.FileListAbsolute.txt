@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.genruntimeconfig.cache

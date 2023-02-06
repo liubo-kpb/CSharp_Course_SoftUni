@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.genruntimeconfig.cache

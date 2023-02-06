@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\refint\08.SoftUniParty.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\ref\08.SoftUniParty.dll

@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.genruntimeconfig.cache

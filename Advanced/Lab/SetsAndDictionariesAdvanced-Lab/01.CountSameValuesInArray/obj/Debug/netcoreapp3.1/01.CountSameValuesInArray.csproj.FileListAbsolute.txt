@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.genruntimeconfig.cache

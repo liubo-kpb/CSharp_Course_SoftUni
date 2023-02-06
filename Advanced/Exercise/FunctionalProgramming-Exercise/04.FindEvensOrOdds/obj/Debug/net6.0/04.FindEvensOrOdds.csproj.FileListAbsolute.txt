@@ -1,0 +1,15 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\bin\Debug\net6.0\04.FindEvensOrOdds.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\bin\Debug\net6.0\04.FindEvensOrOdds.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\bin\Debug\net6.0\04.FindEvensOrOdds.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\bin\Debug\net6.0\04.FindEvensOrOdds.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\bin\Debug\net6.0\04.FindEvensOrOdds.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\refint\04.FindEvensOrOdds.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\FunctionalProgramming-Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\ref\04.FindEvensOrOdds.dll

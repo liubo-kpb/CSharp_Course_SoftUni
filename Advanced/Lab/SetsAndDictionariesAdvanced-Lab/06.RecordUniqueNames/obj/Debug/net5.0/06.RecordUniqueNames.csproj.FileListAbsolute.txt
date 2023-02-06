@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net5.0\06.RecordUniqueNames.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net5.0\refint\06.RecordUniqueNames.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net5.0\06.RecordUniqueNames.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net5.0\ref\06.RecordUniqueNames.dll

@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.genruntimeconfig.cache

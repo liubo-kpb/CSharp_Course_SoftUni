@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\net5.0\03.PeriodicTable.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net5.0\refint\03.PeriodicTable.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net5.0\03.PeriodicTable.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net5.0\ref\03.PeriodicTable.dll

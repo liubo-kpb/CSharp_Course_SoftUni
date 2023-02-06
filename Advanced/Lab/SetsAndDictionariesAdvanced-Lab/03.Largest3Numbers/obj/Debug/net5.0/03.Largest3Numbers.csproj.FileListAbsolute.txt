@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\bin\Debug\net5.0\03.Largest3Numbers.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net5.0\refint\03.Largest3Numbers.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net5.0\03.Largest3Numbers.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Lab\03.Largest3Numbers\obj\Debug\net5.0\ref\03.Largest3Numbers.dll

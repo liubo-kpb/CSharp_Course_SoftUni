@@ -1,0 +1,14 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.runtimeconfig.dev.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.genruntimeconfig.cache

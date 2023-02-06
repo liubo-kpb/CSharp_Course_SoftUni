@@ -1,0 +1,16 @@
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\bin\Debug\net5.0\07.TheV-Logger.exe
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\bin\Debug\net5.0\07.TheV-Logger.deps.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\bin\Debug\net5.0\07.TheV-Logger.runtimeconfig.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\bin\Debug\net5.0\07.TheV-Logger.runtimeconfig.dev.json
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\bin\Debug\net5.0\07.TheV-Logger.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\bin\Debug\net5.0\07.TheV-Logger.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\obj\Debug\net5.0\07.TheV-Logger.csproj.AssemblyReference.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\obj\Debug\net5.0\07.TheV-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\obj\Debug\net5.0\07.TheV-Logger.AssemblyInfoInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\obj\Debug\net5.0\07.TheV-Logger.AssemblyInfo.cs
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\obj\Debug\net5.0\07.TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\obj\Debug\net5.0\07.TheV-Logger.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\obj\Debug\net5.0\refint\07.TheV-Logger.dll
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\obj\Debug\net5.0\07.TheV-Logger.pdb
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\obj\Debug\net5.0\07.TheV-Logger.genruntimeconfig.cache
+C:\Users\u1125123\OneDrive - IQVIA\Documents\Visual Studio 2022\Projects\Lab\SetsAndDictionariesAdvanced-Exercise\07.TheV-Logger\obj\Debug\net5.0\ref\07.TheV-Logger.dll
