@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\narod\\OneDrive\\Desktop\\SoftUni\\Developer\\C#\\Advanced\\Lab\\ImplementingLinkedList-Workshop\\CustomDoublyLinkedList-project\\CustomDoublyLinkedList-project.csproj",
-      "projectName": "CustomDoublyLinkedList-project",
-      "projectPath": "C:\\Users\\narod\\OneDrive\\Desktop\\SoftUni\\Developer\\C#\\Advanced\\Lab\\ImplementingLinkedList-Workshop\\CustomDoublyLinkedList-project\\CustomDoublyLinkedList-project.csproj",
+      "projectUniqueName": "C:\\Users\\narod\\OneDrive\\Desktop\\SoftUni\\Developer\\C#\\Advanced\\Lab\\ImplementingLinkedList-Workshop\\CustomDoublyLinkedList-project\\CustomDoublyLinkedList.csproj",
+      "projectName": "CustomDoublyLinkedList",
+      "projectPath": "C:\\Users\\narod\\OneDrive\\Desktop\\SoftUni\\Developer\\C#\\Advanced\\Lab\\ImplementingLinkedList-Workshop\\CustomDoublyLinkedList-project\\CustomDoublyLinkedList.csproj",
       "packagesPath": "C:\\Users\\narod\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\narod\\OneDrive\\Desktop\\SoftUni\\Developer\\C#\\Advanced\\Lab\\ImplementingLinkedList-Workshop\\CustomDoublyLinkedList-project\\obj\\",
       "projectStyle": "PackageReference",

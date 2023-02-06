@@ -1,0 +1,15 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\bin\Debug\net6.0\Threeuples.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\bin\Debug\net6.0\Threeuples.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\bin\Debug\net6.0\Threeuples.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\bin\Debug\net6.0\Threeuples.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\bin\Debug\net6.0\Threeuples.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\obj\Debug\net6.0\Threeuples.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\obj\Debug\net6.0\Threeuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\obj\Debug\net6.0\Threeuples.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\obj\Debug\net6.0\Threeuples.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\obj\Debug\net6.0\Threeuples.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\obj\Debug\net6.0\Threeuples.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\obj\Debug\net6.0\refint\Threeuples.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\obj\Debug\net6.0\Threeuples.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\obj\Debug\net6.0\Threeuples.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\Generics-Exercise\Threeuple\obj\Debug\net6.0\ref\Threeuples.dll

@@ -1,19 +1,19 @@
 ﻿namespace CustomDoublyLinkedList
 {
-    public class CustomDoublyLinkedList
+    public class CustomDoublyLinkedList<T>
     {
         private class ListNode
         {
-            public ListNode(int value) => Value = value;
-            public int Value { get; set; }
+            public ListNode(T value) => Value = value;
+            public T Value { get; set; }
             public ListNode NextNode { get; set; }
-            public ListNode PrevioustNode { get; set; }
+            public ListNode PreviousNode { get; set; }
         }
         private ListNode head;
         private ListNode tail;
         public int Count { get; private set; }
 
-        public void AddFirst(int element)
+        public void AddFirst(T element)
         {
             if (Count == 0)
             {
@@ -23,13 +23,13 @@
             {
                 var newHead = new ListNode(element);
                 newHead.NextNode = head;
-                head.PrevioustNode = newHead;
+                head.PreviousNode = newHead;
                 head = newHead;
             }
             Count++;
         }
 
-        public void AddLast(int element)
+        public void AddLast(T element)
         {
             if (Count == 0)
             {
@@ -38,14 +38,14 @@
             else
             {
                 var newTail = new ListNode(element);
-                newTail.NextNode = tail;
-                tail.PrevioustNode = newTail;
+                newTail.PreviousNode = tail;
+                tail.NextNode = newTail;
                 tail = newTail;
             }
             Count++;
         }
 
-        public int RemoveFirst()
+        public T RemoveFirst()
         {
             if (Count == 0)
             {
@@ -56,7 +56,7 @@
             head = head.NextNode;
             if (head != null)
             {
-                head.PrevioustNode = null;
+                head.PreviousNode = null;
             }
             else
             {
@@ -67,7 +67,7 @@
             return firstElement;
         }
 
-        public int RemoveLast()
+        public T RemoveLast()
         {
             if (Count == 0)
             {
@@ -75,7 +75,7 @@
             }
             var lastElement = tail.Value;
 
-            tail = tail.PrevioustNode;
+            tail = tail.PreviousNode;
             if (tail != null)
             {
                 tail.NextNode = null;
@@ -89,7 +89,7 @@
             return lastElement;
         }
 
-        public void ForEach(Action<int> action)
+        public void ForEach(Action<T> action)
         {
             var currentNode = head;
             while (currentNode != null)
@@ -99,9 +99,9 @@
             }
         }
 
-        public int[] ToArray()
+        public T[] ToArray()
         {
-            int[] array = new int[Count];
+            T[] array = new T[Count];
             var currentNode = head;
             for (int i = 0; i < array.Length; i++)
             {
