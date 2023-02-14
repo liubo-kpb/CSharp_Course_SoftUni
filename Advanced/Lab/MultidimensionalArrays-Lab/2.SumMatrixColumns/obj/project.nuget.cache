@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "r/PsIFgSifm7huw3swdSWQnbF+5ZUi20a8x5QPEJWtOS0NsdFFz7z/J+ha4lAKZzU9qNMqmpZ19osaZV9J+YqA==",
+  "dgSpecHash": "aZr1yVI/sZx1oOmgeXYK4HM8O2Xy4KkWFbRBTBAC4pCdQC6C82yCGJkzD+D+IT0j0yfgNT2zo2HFu5AF7wz+IQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\narod\\OneDrive\\Desktop\\SoftUni\\Developer\\C#\\Advanced\\Lab\\MultidimensionalArrays-Lab\\2.SumMatrixColumns\\2.SumMatrixColumns.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

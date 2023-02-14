@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yzDTaWQ/yWuFYs4vw2om6rToBY9k6HC1WfJY6DCWp3CLHit810/Y0pQOJMx8w6idbvRh9sdcj90Q3nYI98N+7w==",
+  "dgSpecHash": "oAQ5+Bs5UuXe8TfTKmpbf4DkrsAvxpmnWUFk7sDsujYiFAvFu8B/613xKDwfEI1AX1ohTNqn684PzChlZB4+6w==",
   "success": true,
   "projectFilePath": "C:\\Users\\narod\\OneDrive\\Desktop\\SoftUni\\Developer\\C#\\Advanced\\Lab\\MultidimensionalArrays-Lab\\6.Jagged-ArrayModification\\6.Jagged-ArrayModification.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

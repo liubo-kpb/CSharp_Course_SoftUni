@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cMw6L5lxRa3zQoIID71ipd4HJ3TKFc7Fuc5DgEIC72H0E6ufwi1qMU29GxkrRd84DuXUzWk2oalXYuLR7FFsCw==",
+  "dgSpecHash": "VjJxleDepJysAbAzoLpS8uzHysmB/BX+5v21MGE5Ch5TzynEu8GdQ/r1mymap6HTb+yRjPqZFAVKLS7urC3yKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\narod\\OneDrive\\Desktop\\SoftUni\\Developer\\C#\\Advanced\\Lab\\MultidimensionalArrays-Lab\\5.SquareWithMaximumSum\\5.SquareWithMaximumSum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "G/vHi+QuHkgozLwvojn4v3kQhxBcLf+ayA4gvLc/y52DZolCIECqnebZHEDX8MmWf/DvtksYAXmvRvPvvz0RWQ==",
+  "dgSpecHash": "OU0MlYm8goJGKTfPffabh8e1G12ekA/IQTP2pFMa/1eOChvljYGMig+Uqc1arJyjFJ+isG76JQXfaavaB82zmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\narod\\OneDrive\\Desktop\\SoftUni\\Developer\\C#\\Advanced\\Lab\\MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\narod\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
