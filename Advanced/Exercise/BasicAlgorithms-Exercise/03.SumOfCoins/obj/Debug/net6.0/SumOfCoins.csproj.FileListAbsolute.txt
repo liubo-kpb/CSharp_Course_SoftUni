@@ -1,0 +1,15 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\bin\Debug\net6.0\SumOfCoins.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\bin\Debug\net6.0\SumOfCoins.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\bin\Debug\net6.0\SumOfCoins.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\bin\Debug\net6.0\SumOfCoins.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\bin\Debug\net6.0\SumOfCoins.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\refint\SumOfCoins.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\ref\SumOfCoins.dll

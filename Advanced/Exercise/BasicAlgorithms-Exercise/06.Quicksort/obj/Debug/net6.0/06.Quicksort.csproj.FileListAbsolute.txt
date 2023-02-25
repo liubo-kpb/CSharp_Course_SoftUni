@@ -1,0 +1,15 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\bin\Debug\net6.0\06.Quicksort.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\bin\Debug\net6.0\06.Quicksort.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\bin\Debug\net6.0\06.Quicksort.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\bin\Debug\net6.0\06.Quicksort.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\bin\Debug\net6.0\06.Quicksort.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\obj\Debug\net6.0\06.Quicksort.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\obj\Debug\net6.0\06.Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\obj\Debug\net6.0\06.Quicksort.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\obj\Debug\net6.0\06.Quicksort.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\obj\Debug\net6.0\06.Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\obj\Debug\net6.0\06.Quicksort.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\obj\Debug\net6.0\refint\06.Quicksort.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\obj\Debug\net6.0\06.Quicksort.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\obj\Debug\net6.0\06.Quicksort.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\06.Quicksort\obj\Debug\net6.0\ref\06.Quicksort.dll

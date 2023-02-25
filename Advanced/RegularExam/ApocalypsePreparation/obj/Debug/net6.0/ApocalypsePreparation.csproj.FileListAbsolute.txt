@@ -1,0 +1,15 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\obj\Debug\net6.0\refint\ApocalypsePreparation.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\RegularExam\ApocalypsePreparation\obj\Debug\net6.0\ref\ApocalypsePreparation.dll

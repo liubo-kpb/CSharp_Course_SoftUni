@@ -1,0 +1,15 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\net6.0\ListyIterator.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\net6.0\ListyIterator.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\net6.0\ListyIterator.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\net6.0\ListyIterator.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\net6.0\ListyIterator.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\net6.0\ListyIterator.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\net6.0\ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\net6.0\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\net6.0\ListyIterator.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\net6.0\refint\ListyIterator.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\net6.0\ListyIterator.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\net6.0\ListyIterator.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\net6.0\ref\ListyIterator.dll

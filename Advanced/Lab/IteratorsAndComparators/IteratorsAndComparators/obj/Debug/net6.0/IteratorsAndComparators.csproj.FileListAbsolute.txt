@@ -1,0 +1,15 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\refint\IteratorsAndComparators.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Lab\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\ref\IteratorsAndComparators.dll

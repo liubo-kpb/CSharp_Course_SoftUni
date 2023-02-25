@@ -1,0 +1,15 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\bin\Debug\net6.0\05.MergeSort.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\bin\Debug\net6.0\05.MergeSort.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\bin\Debug\net6.0\05.MergeSort.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\bin\Debug\net6.0\05.MergeSort.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\bin\Debug\net6.0\05.MergeSort.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\obj\Debug\net6.0\05.MergeSort.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\obj\Debug\net6.0\05.MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\obj\Debug\net6.0\05.MergeSort.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\obj\Debug\net6.0\05.MergeSort.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\obj\Debug\net6.0\05.MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\obj\Debug\net6.0\05.MergeSort.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\obj\Debug\net6.0\refint\05.MergeSort.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\obj\Debug\net6.0\05.MergeSort.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\obj\Debug\net6.0\05.MergeSort.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\05.MergeSort\obj\Debug\net6.0\ref\05.MergeSort.dll

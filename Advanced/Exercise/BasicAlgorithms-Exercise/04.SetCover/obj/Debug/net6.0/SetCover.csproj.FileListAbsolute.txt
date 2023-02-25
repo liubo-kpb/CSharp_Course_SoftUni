@@ -1,0 +1,15 @@
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\bin\Debug\net6.0\SetCover.exe
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\bin\Debug\net6.0\SetCover.deps.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\bin\Debug\net6.0\SetCover.runtimeconfig.json
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\bin\Debug\net6.0\SetCover.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\bin\Debug\net6.0\SetCover.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.csproj.AssemblyReference.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.AssemblyInfoInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.AssemblyInfo.cs
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.csproj.CoreCompileInputs.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\refint\SetCover.dll
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.pdb
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.genruntimeconfig.cache
+C:\Users\narod\OneDrive\Desktop\SoftUni\Developer\C#\Advanced\Exercise\BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\ref\SetCover.dll
